@@ -18,7 +18,7 @@ This theme can be installed a few ways to your Omarchy system. Choose one.
 
 ### Aether Online Repo
 1. Visit https://aethr.no/user/LN7nLqXSXsE6gR4N8Eg4OjeVEsIukq83
-2. Click, `deep-solar. Click Apply.
+2. Click, `deep-solar`. Click Apply.
 - You can also download and view other Aether created themes to apply or install.
 ### TERMINAL
 `omarchy-theme-install https://github.com/JJDizz1L/deep-solar.git`
