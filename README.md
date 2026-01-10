@@ -6,6 +6,9 @@
 ██████╔╝███████╗███████╗██║           ███████║╚██████╔╝███████╗██║  ██║██║  ██║
 ╚═════╝ ╚══════╝╚══════╝╚═╝           ╚══════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
+<img width="3840" height="2160" alt="preview" src="https://github.com/user-attachments/assets/e6519306-e0c5-46fe-b0ab-8ed91fa51d71" />
+
+
 > Deep-Solar by Dizziee.
 
 The Deep-Solar theme was created specifically for the **OMARCHY** | Hyprland system.</br>
