@@ -41,7 +41,7 @@ This allows for automatically theming: Alacritty, Cava, Chromium, Cursor, Discor
   - https://github.com/OldJobobo/theme-hook-plugin-manager
 
 ### System Modifications
-Beta customizes your system with a dark background and adds bright vibrant colors.</br>
+Deep-Solar customizes your system with a dark background and adds muted colors.</br>
 - Supported Terminals: Alacritty, Kitty, Ghostty.
 - Supported Browsers: Chromium Browsers.
 - Modifies TUI colors: nvim/lazyvim, btop++, nvtop, etc.
